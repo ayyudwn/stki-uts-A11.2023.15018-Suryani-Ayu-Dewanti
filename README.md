@@ -112,7 +112,7 @@ Akan muncul tampilan interaktif di browser berisi:
 > Aplikasi ini dapat di-deploy ke [Streamlit Cloud](https://streamlit.io/cloud) atau platform serupa.
 > Link hasil deploy dapat ditulis di bawah ini:
 
-🔗 **Link Deployment:** [*Masukkan URL aplikasi Streamlit kamu di sini*]
+🔗 **Link Deployment:** https://stki-uts-a11202315018-suryani-ayu-dewanti-nfgr37xfbpamuqcmjndc.streamlit.app/
 
 ---
 
