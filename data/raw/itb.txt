@@ -1,0 +1,31 @@
+Informasi Umum: Institut Teknologi Bandung (ITB)
+
+1. Nama & Singkatan
+   - Nama resmi : Institut Teknologi Bandung (ITB)
+   - Singkatan  : ITB
+
+2. Jenis & Alamat Singkat
+   - Jenis      : Perguruan Tinggi Negeri
+   - Alamat     : Bandung, Jawa Barat
+
+3. Tanggal Berdiri
+   - Didirikan  : 2 Maret 1959 (akar THS 1920)
+
+4. Fakultas
+   - Fakultas Ilmu dan Teknologi Kebumian (FITB)
+   - Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA)
+   - Fakultas Seni Rupa dan Desain (FSRD)
+   - Sekolah Arsitektur, Perencanaan dan Pengembangan Kebijakan (SAPPK)
+   - Sekolah Teknik Elektro dan Informatika (STEI)
+   - Sekolah Bisnis dan Manajemen (SBM)
+   - Fakultas Teknologi Industri
+
+5. Akreditasi & Peringkat
+   - Status akreditasi institusi: A
+
+6. Sejarah Singkat
+   - Institut Teknologi Bandung (ITB) didirikan secara resmi pada 2 Maret 1959. Namun, sejarah institusi pendidikan teknik di lokasi yang sama bermula dari pendirian Technische Hoogeschool te Bandung (TH) oleh pemerintah kolonial Belanda pada 3 Juli 1920. Setelah kemerdekaan Indonesia, TH berganti nama menjadi Sekolah Tinggi Teknik (STT) Bandung, dan kemudian menjadi bagian dari Universitas Indonesia (UI) sebelum akhirnya berdiri sebagai institusi mandiri dengan nama Institut Teknologi Bandung. 
+   - Sumber informasi dari https://itb.ac.id/sejarah
+   
+7. Capaian & Fasilitas
+   - Fasilitas kampus yang mendukung proses belajar, laboratorium, pusat riset, serta kegiatan pengabdian masyarakat.
