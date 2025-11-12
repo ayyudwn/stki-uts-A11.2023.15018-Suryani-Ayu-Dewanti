@@ -166,12 +166,12 @@ git commit -m "Initial commit - STKI UTS project"
 2. Salin URL repository, misalnya:
 
    ```
-   https://github.com/username/stki-uts.git
+   https://github.com/ayyudwn/stki-uts-A11.2023.15018-Suryani-Ayu-Dewanti.git
    ```
 3. Jalankan perintah:
 
    ```bash
-   git remote add origin https://github.com/username/stki-uts.git
+   git remote add origin https://github.com/ayyudwn/stki-uts-A11.2023.15018-Suryani-Ayu-Dewanti.git
    git branch -M main
    git push -u origin main
    ```
@@ -183,7 +183,7 @@ git commit -m "Initial commit - STKI UTS project"
 Jika ingin mendownload atau menjalankan di komputer lain:
 
 ```bash
-git clone https://github.com/username/stki-uts.git
+git https://github.com/ayyudwn/stki-uts-A11.2023.15018-Suryani-Ayu-Dewanti.git
 cd stki-uts
 pip install -r requirements.txt
 streamlit run app/main.py
