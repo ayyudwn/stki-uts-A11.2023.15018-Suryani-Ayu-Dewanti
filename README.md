@@ -22,7 +22,7 @@ Proyek ini terdiri atas dua bagian utama:
 stki-uts-<nim>-<nama>/ 
 ├─ data/ 
 │  ├─ processed  # orchestrator + CLI/
-│  └─ rar/               
+│  └─ raw/               
 ├─ src/ 
 # .txt/.pdf yang Anda konversi ke .txt 
 │  ├─ preprocess.py 
@@ -31,13 +31,12 @@ stki-uts-<nim>-<nama>/
 │  ├─ search_engine.py  # orchestrator + CLI 
 │  └─ eval.py 
 ├─ app/ 
-│  └─ main.py
-├─ notebooks/ 
-        # 
-contoh : Interface (CLI/UI) 
-│  └─ UTS_STKI_<nim>.ipynb 
+│  └─ main.py (CLI/UI)
+├─ notebooks/         
+│  └─ UTS_STKI_A11.2023.15018.ipynb.ipynb 
 ├─ reports/ 
-│  ├─ laporan.pdf       
+│  ├─ essai1-stki-uts-A11.2023.15018-Suryani Ayu Dewanti.pdf
+│  ├─ laporan-stki-uts-A11.2023.15018-Suryani Ayu Dewanti.pdf   
 │  └─ readme.md         
 └─ requirements.txt 
 
