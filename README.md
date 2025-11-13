@@ -24,7 +24,6 @@ stki-uts-<nim>-<nama>/
 │  ├─ processed  # orchestrator + CLI/
 │  └─ raw/               
 ├─ src/ 
-# .txt/.pdf yang Anda konversi ke .txt 
 │  ├─ preprocess.py 
 │  ├─ boolean_ir.py 
 │  ├─ vsm_ir.py 
